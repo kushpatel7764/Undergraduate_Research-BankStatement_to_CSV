@@ -1,0 +1,26 @@
+import pdfplumber
+import os
+from PIL import Image
+
+def extract_text_from_pdf(pdf_path, output_file=None):
+    extracted_text = ""
+
+    # Open the PDF
+    with pdfplumber.open(pdf_path) as pdf:
+        for page_number, page in enumerate(pdf.pages, start=1):
+            text = page.extract_text()
+            extracted_text += f"--- Page {page_number} ---\n{text}\n\n"
+
+    # Print the extracted text
+    print(extracted_text)
+    
+    # Optionally save the extracted text to a file
+    if output_file:
+        with open(output_file, "w", encoding="utf-8") as file:
+            file.write(extracted_text)
+        print(f"Extracted text saved to {output_file}")
+
+# Example usage
+pdf_path = "./bankstatement.pdf"  # Replace with your PDF file path
+#output_folder = "extracted_images"  # Folder to save extracted images
+extract_text_from_pdf(pdf_path)

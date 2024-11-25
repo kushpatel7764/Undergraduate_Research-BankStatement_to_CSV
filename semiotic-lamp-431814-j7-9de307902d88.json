@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "semiotic-lamp-431814-j7",
+  "private_key_id": "9de307902d88965e789bba6484f29b862286ef04",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCq2bJ3KeH7QfiD\nRkV3+Q2xEqZr92hp1BFu36WriUOh3Ywwaf74Fr7uvTvv6UvSfKdBJGJJDUH/s13+\nJTUKA/1Nfjbg2Fuhc4jGsTrGhAAkoLzzOE2aunKaueBKULMxeg8fM24yNDVL8Vgu\nPJ6aiTu2c3rP4UZXukH2U4P7Gj34bCQawh6spfkXuJ9MoWhXoNvk7wl7vq6x9nEk\nP5aIZ8QLzVxe4Qr8TgR3sloBfxYLJbsR2S+8K5XdqiMrXe3KC1uV8sKCtNgNnmBf\nBD/zxU/6ZmY295yY5Re5zdFMbiApJlBQQH86af1BwvXDzD28JLbrc4fh3wjP4mTw\nQwPQi7hHAgMBAAECggEACF/fYmPuxcgecrpxEUgBJprWOX78ST1Le90Bwksm9SCZ\nv8D4uuRlu4ISSNigqAXTYcGmZ617Fk0oE4FzYuhLJ3WpiJMfLeZh3/HNnCMNEFgo\nqt6QDA0mxo3+s0w9XFsYfqkHHI+rXrhkk1YGJQEKqKjROxTwKicUSj5RvwjMQzvF\nQ8hsoyjS3En/Ci5h4DSrIyE+5PPE995F/08cz87iXctLfU/vsRMP2C6oTgcmlu2P\npIXe4cpT32eiPOS2WHM98GFZP7F+De0FUmdvrSHIlTtrVxphS8GeBUI0mc3b4w8D\nc2d9Vb3JFAv6oE1VD2KUyVKHI0W+h8Z1YM6VBDPFsQKBgQDSEZVG5ryIMgWOmYqY\nBU7l7rzCT8lDh/oCiql5sSd12xH+lq4wX3N3L4GIRbXnlU3YlWQNSsSU4LkzMiGe\n5453PIdCbarw9irSJnJr3/kBWFbCRmCtaSB/SOBljKxrXbTovv5+Os1CEnWd03WR\nZJQrZAi+hJbCzlDffHz3YvgQ1QKBgQDQNOcQSpfFmZsVd4ayFnHTbHWhjsE2Fi/8\nrMBW4Nae+ZzSbvVZFO+lBsWkw9SLR0J/eJt/W6lt7mm2xuwq5i/AdGFkpi1OQiTZ\nRayZJ/yvvlXZvNAGcg/fpao8igo/9UHFuqd4uVzhi6je+iDB1ViOZ9GFCYEf++Ee\n3lcBRcOSqwKBgQC7xoffZuVkAQLCozEmDqimFC+aqeNIgEXU+8neQ6L4UKjXIC34\ng3odMdPh0h52Mhnx3igfUZRDWFV0E/3Fo0rP/sURdiJ1XjaMv11MXFqi/yoeYvaM\nTAqGfMhJPePp3UuXORMYFsvfocyNFbZkDrn7x2Ghm7d/zxivjQHPySHhOQKBgBAp\nOxJBp/w3ixkkePkT0uwFTDApI4guOrVTN27G7wHSAEE5SaQLgvp9RxQd+z6AXoIE\ne5VsKP+WdPAyCpzd1zEKF5E3cObVLYUL6nTM7Mk7bfCDvmXxrpe+hTNDx73lLKDL\ndzpgsPv02jvMkIRbKg+LsXCxJyuzYmsB+SDpKGAXAoGBAJ+ud3Nu1IChh9g0sPBE\nbogwBdvgwdurWvcKuLWfOMZz+xI8GEhqPLpa+c9vtIyd01ZUqL9pV+Z1Kj5Ttrh0\nTTuejZJe8cUCI1rXqrGmSCeCmXCFH+IH20O1BLZw5R3tfB7vy063fGhBDtCYL0Ya\ng7Y8pXOka13HivWlQbnr4UlV\n-----END PRIVATE KEY-----\n",
+  "client_email": "neuralnetvisionservice@semiotic-lamp-431814-j7.iam.gserviceaccount.com",
+  "client_id": "107492608196947833428",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/neuralnetvisionservice%40semiotic-lamp-431814-j7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
