@@ -4,8 +4,8 @@ import json
 import re
 from google.cloud import vision
 from google.cloud import storage
-import PDF_Rectangles
-import Utility
+import RoughWork.PDF_Rectangles as PDF_Rectangles
+import RoughWork.Utility as Utility
 import Excel_Converter
 
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "./semiotic-lamp-431814-j7-9de307902d88.json"
